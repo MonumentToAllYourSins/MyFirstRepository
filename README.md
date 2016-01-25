@@ -1,2 +1,2 @@
-# MyFirstRepository
-Adam Heaton
+Name: Adam Heaton
+Assingment: Lab #3
